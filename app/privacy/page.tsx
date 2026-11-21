@@ -6,7 +6,7 @@ export const metadata = {
   description: "How PromoDojo, a product of Aldebaran Labs LLC, collects, uses and protects your data.",
 };
 
-const EMAIL = "info@promo-dojo.com";
+const EMAIL = "hello@promodojo.io";
 const Mail = () => <a href={`mailto:${EMAIL}`}>{EMAIL}</a>;
 
 export default function Privacy() {

@@ -5,7 +5,7 @@ import s from "./landing.module.css";
 const inter = Inter({ subsets: ["latin"], variable: "--font-body" });
 const pixel = Silkscreen({ subsets: ["latin"], weight: ["400", "700"], variable: "--font-pixel" });
 
-const CONTACT_EMAIL = "info@promo-dojo.com";
+const CONTACT_EMAIL = "hello@promodojo.io";
 
 const agents = [
   { key: "scout", name: "Scout", role: "Finds the communities, competitors and channels where your audience already hangs out." },
